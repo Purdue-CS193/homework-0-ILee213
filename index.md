@@ -36,4 +36,13 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
 
-//I am just testing things out
+
+# Iris's First CS193 Homework 
+
+## Some of my favorite things about CS193
+
+- The fact that the instructors are college students who are close to our age and are very chill. 
+- How the resources and content that the class will teach us is made to help us adjust to the world of CS more.
+- I like that it is not too stressful... for now. 
+
+
